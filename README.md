@@ -3,6 +3,8 @@
 ### [Lógica de programação]()
 ### [Herança e polimorfismo]()
 
+---
+
 Programação funcional
 Fluxo de dados (Streams)
 Coleções
