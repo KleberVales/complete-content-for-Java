@@ -1,6 +1,6 @@
 # complete-content-for-Java
 
-### [Lógica de programação]()
+### [Lógica de programação](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 ### [Herança e polimorfismo]()
 
 ---
