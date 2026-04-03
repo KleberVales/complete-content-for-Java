@@ -1,7 +1,7 @@
 # complete-content-for-Java
 
 ### [Lógica de programação]()
-Herança e polimorfismo
+### [Herança e polimorfismo]()
 
 Programação funcional
 Fluxo de dados (Streams)
