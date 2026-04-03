@@ -6,3 +6,8 @@ Herança e polimorfismo
 Programação funcional
 Fluxo de dados (Streams)
 Coleções
+
+Localização
+Datas e horas
+Valores monetários e cálculos matemáticos 
+Resource Bundles
