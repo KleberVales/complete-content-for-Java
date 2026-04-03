@@ -11,3 +11,6 @@ Localização
 Datas e horas
 Valores monetários e cálculos matemáticos 
 Resource Bundles
+
+Controle de fluxo de erro
+
