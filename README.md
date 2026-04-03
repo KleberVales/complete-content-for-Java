@@ -17,3 +17,7 @@ Controle de fluxo de erro
 Concorrência
 
 
+Textos
+Entrada e saída de dados
+
+
