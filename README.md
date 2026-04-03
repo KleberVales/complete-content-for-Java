@@ -11,7 +11,7 @@
 
 ---
 
-Localização
+### [Localização]()
 Datas e horas
 Valores monetários e cálculos matemáticos 
 Resource Bundles
