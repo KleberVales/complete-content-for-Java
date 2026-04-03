@@ -24,6 +24,7 @@
 
 ### [Concorrência]()
 
+---
 
 Textos
 Entrada e saída de dados
