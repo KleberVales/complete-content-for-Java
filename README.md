@@ -7,7 +7,7 @@
 
 ### [Programação funcional]()
 ### [Fluxo de dados (Streams)]()
-Coleções
+### [Coleções]()
 
 Localização
 Datas e horas
