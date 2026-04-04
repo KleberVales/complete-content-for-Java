@@ -32,7 +32,3 @@
 ---
 
 ### [Módulos]()
-
-
-| <div align="center"> 🏅 </div> <hr> OCA – Java SE 7 Programmer | <div align="center"> 🏅 <hr> MTA – Software Development Fundamentals |
-
