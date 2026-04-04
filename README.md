@@ -1,6 +1,6 @@
 # complete-content-for-Java
 
-### [programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
+### [Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 ### [Inheritance and polymorphism](https://github.com/KleberVales/complete-content-for-Java/wiki/02-Inheritance-and-polymorphism)
 
 ---
