@@ -7,7 +7,7 @@
 
 ### [Collections](https://github.com/KleberVales/complete-content-for-Java/wiki/03-Collections)
 ### [Functional programming](https://github.com/KleberVales/complete-content-for-Java/wiki/03-Functional-programming)
-### [Data flow (Streams)](https://github.com/KleberVales/complete-content-for-Java/wiki/04-Data-flow-(Streams))
+### [Data flow (Streams)](https://github.com/KleberVales/complete-content-for-Java/wiki/05-Data-flow-(Streams))
 
 ---
 
