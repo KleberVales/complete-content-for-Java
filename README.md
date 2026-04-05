@@ -12,8 +12,8 @@
 ---
 
 ### [Localização]()
-### [Datas e horas]()
 ### [Valores monetários e cálculos matemáticos]() 
+### [Datas e horas]()
 ### [Resource Bundles]()
 
 ---
