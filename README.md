@@ -27,7 +27,7 @@
 ---
 
 ### [Texts]()
-### [Entrada e saída de dados]()
+### [Data input and output]()
 
 ---
 
