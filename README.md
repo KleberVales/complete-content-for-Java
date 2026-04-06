@@ -26,7 +26,7 @@
 
 ---
 
-### [Texts]()
+### [Texts](https://github.com/KleberVales/complete-content-for-Java/wiki/12-Texts)
 ### [Data input and output]()
 
 ---
