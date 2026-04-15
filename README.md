@@ -45,7 +45,7 @@ Java & Spring Software Engineer
 
 Cloud | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Event-driven Architecture
 
-Project: [e-commerce platform](https://github.com/KleberVales/e-commerce-platform)
+Project: [E-commerce platform](https://github.com/KleberVales/e-commerce-platform)
 
 🎓 **Bachelor's Degree in Computer Science**   👉   🎓 **MBA in Web Software Development**
 
