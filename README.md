@@ -31,7 +31,7 @@
 
 ---
 
-### [Oriented Object Programming]()
+### [Object-Oriented Programming]()
 
 ---
 
