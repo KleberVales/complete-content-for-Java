@@ -18,16 +18,16 @@
 
 ---
 
-### [Error flow control](https://github.com/KleberVales/complete-content-for-Java/wiki/10-Error-flow-control)
-
----
-
 ### [Concurrency](https://github.com/KleberVales/complete-content-for-Java/wiki/11-Concurrency)
 
 ---
 
 ### [Texts](https://github.com/KleberVales/complete-content-for-Java/wiki/12-Texts)
 ### [Data input and output](https://github.com/KleberVales/complete-content-for-Java/wiki/13-Data-input-and-output)
+
+---
+
+### [Error flow control](https://github.com/KleberVales/complete-content-for-Java/wiki/10-Error-flow-control)
 
 ---
 
