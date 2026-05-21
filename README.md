@@ -5,6 +5,10 @@
 
 ---
 
+### [Error flow control](https://github.com/KleberVales/complete-content-for-Java/wiki/10-Error-flow-control)
+
+---
+
 ### [Collections](https://github.com/KleberVales/complete-content-for-Java/wiki/03-Collections)
 ### [Functional programming](https://github.com/KleberVales/complete-content-for-Java/wiki/03-Functional-programming)
 ### [Data flow (Streams)](https://github.com/KleberVales/complete-content-for-Java/wiki/05-Data-flow-(Streams))
@@ -24,10 +28,6 @@
 
 ### [Texts](https://github.com/KleberVales/complete-content-for-Java/wiki/12-Texts)
 ### [Data input and output](https://github.com/KleberVales/complete-content-for-Java/wiki/13-Data-input-and-output)
-
----
-
-### [Error flow control](https://github.com/KleberVales/complete-content-for-Java/wiki/10-Error-flow-control)
 
 ---
 
