@@ -62,6 +62,7 @@
 ### 4.5 Creating a Service
 ### 4.6 Discovering Modules
 ### 4.7 Comparing Types of Modules
+### 4.8 Migrating an Application
 
 ---
 
