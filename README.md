@@ -59,6 +59,7 @@
 ### 4.2 Creating and Running a Modular Program
 ### 4.3 Updating Our Example for Multiple Modules
 ### 4.4 Diving into the Module Declaration
+### 4.5 Creating a Service
 
 ---
 
