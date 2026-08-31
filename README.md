@@ -57,16 +57,16 @@
 
 ### 4.1 Command
 
-## 4. Modules
+### 4.2 Modules
 
-### 4.1 Introducing Modules
-### 4.2 Creating and Running a Modular Program
-### 4.3 Updating Our Example for Multiple Modules
-### 4.4 Diving into the Module Declaration
-### 4.5 Creating a Service
-### 4.6 Discovering Modules
-### 4.7 Comparing Types of Modules
-### 4.8 Migrating an Application
+#### 4.1 Introducing Modules
+#### 4.2 Creating and Running a Modular Program
+#### 4.3 Updating Our Example for Multiple Modules
+#### 4.4 Diving into the Module Declaration
+#### 4.5 Creating a Service
+#### 4.6 Discovering Modules
+#### 4.7 Comparing Types of Modules
+#### 4.8 Migrating an Application
 
 ---
 
