@@ -3,6 +3,7 @@
 ## 1. Programming logic
 
 ### 1.1 Building Blocks
+### 1.2 Operators
 
 ### [Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 
