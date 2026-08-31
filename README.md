@@ -16,7 +16,7 @@
 
 ## 2. APIs
 
-### [Error flow control](https://github.com/KleberVales/complete-content-for-Java/wiki/10-Error-flow-control)
+### 2.1 Error flow control
 
 ---
 
