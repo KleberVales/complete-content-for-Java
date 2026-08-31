@@ -37,7 +37,7 @@
 
 ---
 
-### [Texts](https://github.com/KleberVales/complete-content-for-Java/wiki/12-Texts)
+### 2.10 Texts
 ### [Data input and output](https://github.com/KleberVales/complete-content-for-Java/wiki/13-Data-input-and-output)
 
 ---
