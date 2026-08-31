@@ -44,6 +44,8 @@
 
 ## 3. Object-Oriented Programming
 
+### 3.1 Understanding Inheritance
+
 ---
 
 ### [Modules](https://github.com/KleberVales/complete-content-for-Java/wiki/14-Modules)
