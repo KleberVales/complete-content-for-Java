@@ -56,6 +56,7 @@
 ## 4. Modules
 
 ### 4.1 Introducing Modules
+### 4.2 Creating and Running a Modular Program
 
 ---
 
