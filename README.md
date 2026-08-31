@@ -5,6 +5,8 @@
 ### 1.1 Building Blocks
 ### 1.2 Operators
 ### 1.3 Making Decisions
+### 1.4 Understanding Arrays
+### 1.5 Methods
 
 ### [Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 
