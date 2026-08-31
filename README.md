@@ -27,7 +27,7 @@
 ---
 
 ### 2.5 Formatting Values and  math
-### [Date/Time Format](https://github.com/KleberVales/complete-content-for-Java/wiki/07-Dates-and-Times-format)
+### 2.6 Date/Time Format
 ### [Localization](https://github.com/KleberVales/complete-content-for-Java/wiki/08-Location)
 ### [Resource Bundles](https://github.com/KleberVales/complete-content-for-Java/wiki/09-Resource-Bundles)
 
