@@ -47,6 +47,7 @@
 ### 3.1 Understanding Inheritance
 ### 3.2 Super and this
 ### 3.3 Inheriting members
+### 3.4 Understanding Polymorphism
 
 ---
 
