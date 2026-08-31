@@ -45,6 +45,7 @@
 ## 3. Object-Oriented Programming
 
 ### 3.1 Understanding Inheritance
+### 3.2 Super and this
 
 ---
 
