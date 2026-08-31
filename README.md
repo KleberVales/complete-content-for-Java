@@ -49,6 +49,7 @@
 ### 3.3 Inheriting members
 ### 3.4 Understanding Polymorphism
 ### 3.5 Overloaded methods
+### 3.6 Hidden methods
 
 ---
 
