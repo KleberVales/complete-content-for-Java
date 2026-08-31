@@ -4,6 +4,7 @@
 
 ### 1.1 Building Blocks
 ### 1.2 Operators
+### 1.3 Making Decisions
 
 ### [Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 
