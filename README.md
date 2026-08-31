@@ -61,6 +61,7 @@
 ### 4.4 Diving into the Module Declaration
 ### 4.5 Creating a Service
 ### 4.6 Discovering Modules
+### 4.7 Comparing Types of Modules
 
 ---
 
