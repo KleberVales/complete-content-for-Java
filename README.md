@@ -1,6 +1,6 @@
 # complete-content-for-Java
 
-## [1. Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
+## 1. Programming logic
 
 ### 1.1 Building Blocks
 ### 1.2 Operators
