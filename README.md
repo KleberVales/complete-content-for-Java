@@ -29,7 +29,7 @@
 ### 2.5 Formatting Values and  math
 ### 2.6 Date/Time Format
 ### 2.7 Localization
-### [Resource Bundles](https://github.com/KleberVales/complete-content-for-Java/wiki/09-Resource-Bundles)
+### 2.8 Resource Bundles
 
 ---
 
