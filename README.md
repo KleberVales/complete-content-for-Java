@@ -7,6 +7,7 @@
 ### 1.3 Making Decisions
 ### 1.4 Understanding Arrays
 ### 1.5 Methods
+### 1.6 Class Design
 
 ### [Programming logic](https://github.com/KleberVales/complete-content-for-Java/wiki/01-programming-logic)
 
