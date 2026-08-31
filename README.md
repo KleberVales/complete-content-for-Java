@@ -42,7 +42,7 @@
 
 ---
 
-### [Object-Oriented Programming](https://github.com/KleberVales/complete-content-for-Java/wiki/02-Inheritance-and-polymorphism)
+## 3. Object-Oriented Programming
 
 ---
 
