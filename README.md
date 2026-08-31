@@ -60,6 +60,7 @@
 ### 4.3 Updating Our Example for Multiple Modules
 ### 4.4 Diving into the Module Declaration
 ### 4.5 Creating a Service
+### 4.6 Discovering Modules
 
 ---
 
