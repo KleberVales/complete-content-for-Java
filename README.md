@@ -53,7 +53,9 @@
 
 ---
 
-### 4. Modules
+## 4. Modules
+
+### 4.1 Introducing Modules
 
 ---
 
