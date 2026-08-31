@@ -21,7 +21,7 @@
 ---
 
 ### 2.2 Collections
-### [Functional programming](https://github.com/KleberVales/complete-content-for-Java/wiki/03-Functional-programming)
+### 2.3 Functional programming
 ### [Data flow (Streams)](https://github.com/KleberVales/complete-content-for-Java/wiki/05-Data-flow-(Streams))
 
 ---
