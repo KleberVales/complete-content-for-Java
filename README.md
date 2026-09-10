@@ -84,6 +84,7 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 * **Programming:** Programming Logic, Programming Paradigms, Java, Python
 * **Software Engineering:** Clean Code, SOLID, Design Patterns, Domain-Driven Design
 * **Architecture:** Software Architecture Patterns, Modular Monoliths, Microservices
+* **Backend:** Spring, REST APIs, Kafka
 
 
 
