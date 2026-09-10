@@ -82,6 +82,7 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 ### Key Knowledge
 
 * **Programming:** Programming Logic, Programming Paradigms, Java, Python
+* **Software Engineering:** Clean Code, SOLID, Design Patterns, Domain-Driven Design
 
 
 
