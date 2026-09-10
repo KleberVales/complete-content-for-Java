@@ -88,6 +88,7 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 * **DevOps & Infrastructure:** Docker, Kubernetes, DevOps, Gradle, Git, GitHub
 * **Cloud & AI:** Cloud Computing, Generative AI, AI Agents
 * **Databases:** Relational & NoSQL Databases
+* **Methodologies:** Scrum
 
 
 
