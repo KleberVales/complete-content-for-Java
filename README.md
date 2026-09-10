@@ -81,5 +81,7 @@ Cloud | Microservices | DevOps | Generative AI | Agile
 
 ### Key Knowledge
 
+* **Programming:** Programming Logic, Programming Paradigms, Java, Python
+
 
 
